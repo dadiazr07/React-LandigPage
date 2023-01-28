@@ -12,7 +12,7 @@ const Home = () => {
 	return (
 			<>
 			<Nav/>
-			<div className="container">
+			<div className="container flex-shrink-0">
 				<div className="row">
 					<div className="col">
 						<Jumbotron/>
